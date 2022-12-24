@@ -1,0 +1,1 @@
+{"Type": {"Builder_Floor": 0, "Apartment": 1}, "Furnishing": {"Semi-Furnished": 1, "Unfurnished": 0, "Furnished": 2}, "Status": {"Ready_to_move": 1, "Almost_ready": 0}, "Transaction": {"Resale": 0, "New_Property": 1}, "Columns": ["Area", "BHK", "Bathroom", "Parking", "Per_Sqft", "Type", "Furnishing", "Status", "Transaction"]}
